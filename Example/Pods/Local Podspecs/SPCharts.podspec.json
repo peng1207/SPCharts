@@ -1,0 +1,22 @@
+{
+  "name": "SPCharts",
+  "version": "0.0.01",
+  "summary": "A short description of SPCharts.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/peng1207/SPCharts",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "825844231@qq.com": "825844231@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/peng1207/SPCharts.git",
+    "tag": "0.0.01"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SPCharts/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module Pods_SPCharts_Tests {
+  umbrella header "Pods-SPCharts_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

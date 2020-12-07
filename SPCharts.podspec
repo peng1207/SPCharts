@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SPCharts'
-  s.version          = '0.1.0'
+  s.version          = '0.0.01'
   s.summary          = 'A short description of SPCharts.'
 
 # This description is used to generate tags and improve search results.
@@ -21,14 +21,14 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/825844231@qq.com/SPCharts'
+  s.homepage         = 'https://github.com/peng1207/SPCharts'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '825844231@qq.com' => '825844231@qq.com' }
-  s.source           = { :git => 'https://github.com/825844231@qq.com/SPCharts.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/peng1207/SPCharts.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '10.0'
 
   s.source_files = 'SPCharts/Classes/**/*'
   
